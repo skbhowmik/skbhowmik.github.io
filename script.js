@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Automation", "Mobile Automation", "API Testing", "Database Testing"],
+        strings: ["Web Automation", "Mobile Automation", "API Verification","Performance Testing", "Database Testing"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Automation", "Mobile Automation", "API Testing", "Database Testing", "CI/CD/DEV-OPS"],
+        strings: ["Web Automation", "Mobile Automation", "API Testing", "Database Testing","Performance Testing", "CI/CD/DEV-OPS"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
