@@ -76,7 +76,18 @@ section .title::after{
     background: #fff;
     transform: translateX(-50%);
 }
+.sns .fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 20px;
+  color: white;
+}
 
+.fa:hover {
+    opacity: 0.7;
+	color: teal
+}
 /* navbar styling */
 .navbar{
     position: fixed;
